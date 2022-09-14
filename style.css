@@ -1,0 +1,39 @@
+body{
+    background:rgb(100, 0, 154);
+    color: black
+}
+
+#intro{
+    background:rgba(120, 144, 0, 0.705);
+    color:rgb(161, 25, 7);
+    font-family:'Courier New', Courier, monospace;
+}
+
+.E{
+    color:rgb(255, 255, 255);
+    font-family: 'Courier New', Courier, monospace;
+    font-size:20px;
+}
+
+#Footer{
+    color:rgb(164, 0, 253);
+    background-color:rgb(0, 0, 0);
+    text-shadow:10px rgb(255, 0, 0);
+    position:fixed;
+    Bottom:0;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.btn-success:hover{
+    background-color:blueviolet;
+}
+
+.btn-success{
+    height:50px;
+    width:100px;
+    text-size-adjust:69px;
+}
+
+#text{
+    color:goldenrod;
+}
